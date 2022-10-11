@@ -74,7 +74,7 @@ function Register() {
   return (
     <div>
       <h1>Register</h1>
-      <h2>Join today and get 100 Bamboo dollars for free!</h2>
+      <h2>Join today and get 100 Bambeuros for free!</h2>
       <div id="errors"></div>
       <form onSubmit={registerUser}>
         <input
